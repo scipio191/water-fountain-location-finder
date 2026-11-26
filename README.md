@@ -3,6 +3,9 @@
 Fullstack repo: a React frontend (Vite) and an Express backend, managed together
 with npm workspaces.
 
+# Code Owners
+Tiernan Da Cruz
+
 ## Structure
 
 ```
