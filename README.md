@@ -7,6 +7,7 @@ with npm workspaces.
 Tiernan Da Cruz,
 Alanya Yildirim,
 Matthew Tweed,
+Harry Ross
 
 ## Structure
 
