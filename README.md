@@ -5,6 +5,7 @@ with npm workspaces.
 
 # Code Owners
 Tiernan Da Cruz
+Alanya Yildirim
 
 ## Structure
 
